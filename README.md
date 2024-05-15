@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, React, MySQL.**
 
-- 📫 How to reach me **web.souviksnhuiya@gmail.com**
+- 📫 How to reach me **web.souviksbhuiya@gmail.com**
 
 - ⚡ **I am funny**
 
