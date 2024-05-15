@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikbhuiya&label=Profile%20views&color=0e75b6&style=flat" alt="souvikbhuiya" /> </p>
 
-- 🌱 I’m currently learning **Java, DSA,React,MySQL.**
+- 🔭 I’m currently Improving Myself.
+
+- 🌱 I’m currently learning **Java, DSA, React, MySQL.**
 
 - 📫 How to reach me **web.souviksnhuiya@gmail.com**
 
