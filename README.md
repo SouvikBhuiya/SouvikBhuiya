@@ -44,7 +44,7 @@
 />
 
 - 🔭 I’m currently working on **Python, SQL, Data Analysis, and Machine Learning projects**
-- 🌱 I’m currently learning **Python, Data Science, Machine Learning, FastAPI, and Advanced SQL**
+- 🌱 I’m currently learning **Python, Data Science, Machine Learning, and Advanced SQL**
 - 📊 I’m interested in **Data Analytics, Data Science, Predictive Modelling, and Business Intelligence**
 - 💬 Ask me about **Python, SQL, MySQL, Pandas, NumPy, Machine Learning, and Data Analysis**
 - 👯 I’m looking to collaborate on **Python, Data Science, Machine Learning, and Open Source projects**
@@ -68,6 +68,8 @@
 <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </p>
 
@@ -107,7 +109,7 @@
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
 </p>
 
@@ -140,7 +142,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/souvik-bhuiya-032192207/">
+<a href="https://www.linkedin.com/in/souvik-bhuiya/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
