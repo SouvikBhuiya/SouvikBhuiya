@@ -1,22 +1,22 @@
-<!-- ========================= -->
-<!--          BANNER           -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                      BANNER                           -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img 
+  <img
     src="https://github.com/SouvikBhuiya/SouvikBhuiya/blob/main/Banner_Git.png"
-    alt="Souvik Bhuiya Banner"
+    alt="Souvik Bhuiya GitHub Banner"
     width="100%"
   />
 </p>
 
-<!-- ========================= -->
-<!--      TYPING ANIMATION     -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                 TYPING ANIMATION                      -->
+<!-- ===================================================== -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Souvik+Bhuiya;Python+%7C+SQL+%7C+Data+Analysis;Data+Science+%7C+Machine+Learning;Turning+Data+Into+Practical+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Souvik+Bhuiya;Python+%7C+SQL+%7C+Data+Analysis;Data+Science+%7C+Machine+Learning;Turning+Data+Into+Practical+Solutions"
     alt="Typing Animation"
   />
 </p>
@@ -34,9 +34,9 @@
 
 ---
 
-<!-- ========================= -->
-<!--          ABOUT            -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                       ABOUT ME                        -->
+<!-- ===================================================== -->
 
 ## 👨‍💻 About Me
 
@@ -59,161 +59,108 @@
 
 ---
 
-<!-- ========================= -->
-<!--       CORE SKILLS         -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  CORE SKILLS                          -->
+<!-- ===================================================== -->
 
 ## 🧠 Core Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analysis-0E75B6?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-0E75B6?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analysis"/>
+<img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--       DATA SCIENCE        -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--             DATA SCIENCE & ML                         -->
+<!-- ===================================================== -->
 
 ## 📊 Data Science & Machine Learning
 
-<p align="left">
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,tensorflow,sklearn"
+    alt="Data Science and Machine Learning Skills"
+  />
+</p>
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="50"
-  height="50"
-  alt="Python"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-  width="50"
-  height="50"
-  alt="NumPy"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-  width="50"
-  height="50"
-  alt="Pandas"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-  width="50"
-  height="50"
-  alt="Matplotlib"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-  width="50"
-  height="50"
-  alt="TensorFlow"
-/>
-
-<img
-  src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-  height="50"
-  alt="Scikit-learn"
-/>
-
-<img
-  src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"
-  height="50"
-  alt="Plotly"
-/>
-
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"
+    alt="Plotly"
+  />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--        DATABASES           -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                DATA & ANALYTICS TOOLS                 -->
+<!-- ===================================================== -->
 
 ## 🗄️ Database & Data Tools
 
-<p align="left">
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=mysql"
+    alt="MySQL"
+  />
+</p>
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  width="50"
-  height="50"
-  alt="MySQL"
-/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI"
+  />
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  width="50"
-  height="50"
-  alt="Git"
-/>
+  <img
+    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
+    alt="Excel"
+  />
 
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  width="50"
-  height="50"
-  alt="GitHub"
-/>
+  <img
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+    alt="Figma"
+  />
 
-<img
-  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-  height="50"
-  alt="Power BI"
-/>
-
-<img
-  src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-  height="50"
-  alt="Microsoft Excel"
-/>
-
-<img
-  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-  height="50"
-  alt="Figma"
-/>
-
-<img
-  src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"
-  height="50"
-  alt="Canva"
-/>
-
+  <img
+    src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"
+    alt="Canva"
+  />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--       TECHNOLOGIES         -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                   TECHNOLOGIES                        -->
+<!-- ===================================================== -->
 
 ## 🛠️ Technologies
 
+<p align="center">
+
 | Category | Skills |
-|----------|--------|
+| :---: | :--- |
 | 🐍 Programming | Python |
 | 📊 Data Analysis | Pandas, NumPy, Matplotlib, Plotly |
 | 🤖 Machine Learning | Scikit-learn, TensorFlow |
 | 🗄️ Database | SQL, MySQL |
 | 📈 Visualisation | Power BI, Excel, Matplotlib, Plotly |
-| 🔧 Tools | Git, GitHub, Figma, Canva |
+| 🎨 Design | Figma, Canva |
+
+</p>
 
 ---
 
-<!-- ========================= -->
-<!--       SOCIAL LINKS         -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  CONNECT WITH ME                      -->
+<!-- ===================================================== -->
 
 ## 🌐 Connect With Me
 
@@ -240,36 +187,29 @@
   />
 </a>
 
-<a href="https://github.com/SouvikBhuiya">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--       GITHUB ACTIVITY      -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  GITHUB ACTIVITY                      -->
+<!-- ===================================================== -->
 
 ## 📈 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=SouvikBhuiya&theme=github-dark&hide_border=true&area=true"
-    alt="Souvik Bhuiya GitHub Activity Graph"
+    alt="GitHub Activity Graph"
     width="100%"
   />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!--       GITHUB STATS         -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  GITHUB STATISTICS                   -->
+<!-- ===================================================== -->
 
 ## 📊 GitHub Statistics
 
@@ -291,9 +231,9 @@
 
 ---
 
-<!-- ========================= -->
-<!--       STREAK STATS         -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                    GITHUB STREAK                      -->
+<!-- ===================================================== -->
 
 ## 🔥 GitHub Streak
 
@@ -308,9 +248,9 @@
 
 ---
 
-<!-- ========================= -->
-<!--        TROPHIES            -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                   GITHUB TROPHIES                     -->
+<!-- ===================================================== -->
 
 ## 🏆 GitHub Trophies
 
@@ -325,9 +265,9 @@
 
 ---
 
-<!-- ========================= -->
-<!--     TOP CONTRIBUTIONS      -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  TOP CONTRIBUTIONS                    -->
+<!-- ===================================================== -->
 
 ## 🚀 Top Contributions
 
@@ -342,14 +282,14 @@
 
 ---
 
-<!-- ========================= -->
-<!--       PROFILE VIEWS       -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                   PROFILE VIEWS                       -->
+<!-- ===================================================== -->
 
 <p align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=SouvikBhuiya&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=SouvikBhuiya&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
   alt="Profile Views"
 />
 
