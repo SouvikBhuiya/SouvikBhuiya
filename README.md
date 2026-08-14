@@ -34,10 +34,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
-<!-- ===================================================== -->
-
 ## 👨‍💻 About Me
 
 <img
@@ -59,10 +55,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                     CORE SKILLS                       -->
-<!-- ===================================================== -->
-
 ## 🧠 Core Skills
 
 <p align="center">
@@ -83,72 +75,45 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--              DATA SCIENCE & MACHINE LEARNING          -->
-<!-- ===================================================== -->
-
 ## 📊 Data Science & Machine Learning
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,tensorflow,sklearn"
-    alt="Python NumPy Pandas Matplotlib TensorFlow Scikit-learn"
-  />
-</p>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-<img
-  src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"
-  alt="Plotly"
-/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                  DATABASE & DATA TOOLS                 -->
-<!-- ===================================================== -->
 
 ## 🗄️ Database & Data Tools
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    alt="MySQL"
-  />
-</p>
 
-<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<img
-  src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
-  alt="Power BI"
-/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<img
-  src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-  alt="Excel"
-/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 
-<img
-  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-  alt="Figma"
-/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
-<img
-  src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"
-  alt="Canva"
-/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                    TECHNOLOGIES                       -->
-<!-- ===================================================== -->
 
 ## 🛠️ Technologies
 
@@ -162,10 +127,6 @@
 | 🎨 Design | Figma, Canva |
 
 ---
-
-<!-- ===================================================== -->
-<!--                    CONNECT WITH ME                    -->
-<!-- ===================================================== -->
 
 ## 🌐 Connect With Me
 
@@ -196,10 +157,6 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CONTRIBUTION OVERVIEW                 -->
-<!-- ===================================================== -->
-
 ## 📈 Contribution Overview
 
 <p align="center">
@@ -212,33 +169,29 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                   GITHUB STATISTICS                    -->
-<!-- ===================================================== -->
-
 ## 📊 GitHub Statistics
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SouvikBhuiya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
-  alt="GitHub Statistics"
-  width="48%"
-/>
+<a href="https://github.com/SouvikBhuiya">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=SouvikBhuiya&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Statistics"
+    height="180"
+  />
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikBhuiya&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  alt="Top Languages"
-  width="48%"
-/>
+<a href="https://github.com/SouvikBhuiya">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=SouvikBhuiya&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
+</a>
 
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                     GITHUB STREAK                     -->
-<!-- ===================================================== -->
 
 ## 🔥 GitHub Streak
 
@@ -254,16 +207,12 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                    GITHUB TROPHIES                    -->
-<!-- ===================================================== -->
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=SouvikBhuiya&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=7"
+  src="https://github-profile-trophy.vercel.app/?username=SouvikBhuiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7"
   alt="GitHub Trophies"
   width="90%"
 />
@@ -271,10 +220,6 @@
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                   TOP CONTRIBUTIONS                   -->
-<!-- ===================================================== -->
 
 ## 🚀 Top Contributions
 
@@ -289,10 +234,6 @@
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                    PROFILE VIEWS                      -->
-<!-- ===================================================== -->
 
 <p align="center">
 
